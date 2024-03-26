@@ -1,0 +1,10 @@
+@REST_API___APS.NET_Core_HostAddress = http://localhost:5113
+
+GET {{REST_API___APS.NET_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{REST_API___APS.NET_Core_HostAddress}}/customer
+Accept: application/json
+
+###

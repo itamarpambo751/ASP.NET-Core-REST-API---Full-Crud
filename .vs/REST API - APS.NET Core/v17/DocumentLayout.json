@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\services\\createcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:services\\createcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\services\\updatecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:services\\updatecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\dtos\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:dtos\\customerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|c:\\users\\melkj\\source\\repos\\rest api - aps.net core\\services\\readonecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}|REST API - APS.NET Core.csproj|solutionrelative:services\\readonecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\CreateCustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CreateCustomerService.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\CreateCustomerService.cs",
+              "RelativeToolTip": "Services\\CreateCustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:49:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDtos.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Dtos\\CustomerDtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\CustomerDtos.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Dtos\\CustomerDtos.cs",
+              "RelativeToolTip": "Dtos\\CustomerDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:47:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\UpdateCustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\UpdateCustomerService.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\UpdateCustomerService.cs",
+              "RelativeToolTip": "Services\\UpdateCustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:38:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:54:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:03:25.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:21:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:21:29.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:44:07.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadOneCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\ReadOneCustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ReadOneCustomerService.cs",
+              "ToolTip": "C:\\Users\\melkj\\source\\repos\\REST API - APS.NET Core\\Services\\ReadOneCustomerService.cs",
+              "RelativeToolTip": "Services\\ReadOneCustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:26:48.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

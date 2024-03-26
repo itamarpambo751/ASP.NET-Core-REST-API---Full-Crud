@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST API - APS.NET Core", "REST API - APS.NET Core.csproj", "{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MegamanApi", "..\..\..\Videos\VSCode\MegaApiDotnetCore\src\MegamanApi.csproj", "{936A0DD7-1AC7-4A85-BE5B-BF340D7A78AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E7D0E2-D5ED-4EF4-ADD9-104893F829B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936A0DD7-1AC7-4A85-BE5B-BF340D7A78AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936A0DD7-1AC7-4A85-BE5B-BF340D7A78AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936A0DD7-1AC7-4A85-BE5B-BF340D7A78AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936A0DD7-1AC7-4A85-BE5B-BF340D7A78AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C230DC35-E566-4224-AA22-3FFE77E1AA66}
+	EndGlobalSection
+EndGlobal

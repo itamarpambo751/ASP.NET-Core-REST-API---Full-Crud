@@ -1,0 +1,34 @@
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.csproj.AssemblyReference.cache
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.AssemblyInfoInputs.cache
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.AssemblyInfo.cs
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.csproj.CoreCompileInputs.cache
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\appsettings.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\REST API - APS.NET Core.exe
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\REST API - APS.NET Core.deps.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\REST API - APS.NET Core.runtimeconfig.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\REST API - APS.NET Core.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\REST API - APS.NET Core.pdb
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets\msbuild.REST API - APS.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets\msbuild.build.REST API - APS.NET Core.props
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.REST API - APS.NET Core.props
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.REST API - APS.NET Core.props
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\scopedcss\bundle\REST API - APS.NET Core.styles.css
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API.472EADE9.Up2Date
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\refint\REST API - APS.NET Core.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.pdb
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\REST API - APS.NET Core.genruntimeconfig.cache
+C:\Users\melkj\source\repos\REST API - APS.NET Core\obj\Debug\net8.0\ref\REST API - APS.NET Core.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\melkj\source\repos\REST API - APS.NET Core\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll

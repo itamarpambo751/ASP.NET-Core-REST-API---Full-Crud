@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\REST API - APS.NET Core.props" />
+</Project>
